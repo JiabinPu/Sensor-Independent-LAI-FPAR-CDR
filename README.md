@@ -3,6 +3,9 @@ The Sensor-Independent leaf area index (LAI)/ fraction of photosynthetically act
 
 The data descroption, file naming convention, data availablity, and example code are detailed in Readme_for_Sensor-Independent LAIFPAR CDR.docx.
 
+Data Citation:
+Pu, Jiabin, Roy, Samapriya, Knyazikhin, Yuri, & Myneni, Ranga. (2023). Sensor-Independent LAI/FPAR CDR [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8076540
+
 The dataset links are as follows:
 1)  https://doi.org/10.5281/zenodo.8076540 (spatial resolution is 5km/0.05degree and temporal resolution is 8 days/half month)
 2)	https://code.earthengine.google.com/?asset=projects/sat-io/open-datasets/BU_LAI_FPAR/wgs_500m_8d (spatial resolution is 500m and temporal resolution is 8 days)
