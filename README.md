@@ -1,6 +1,8 @@
 # Sensor-Independent-LAI-FPAR-CDR
 The Sensor-Independent LAI/FPAR climate data record (CDR) is derived from high quality LAI/FPAR from MOD15AH C6, MYD15A2H C6, and VNP15A2H C1 products. The low-quality LAI/FPARs were first removed using quality control flags. The high-quality LAI/FPARs were merged into Filtered Sensor-Independent LAI/FPAR data sets. The missing values are then gap filled by spatial-temporal tensor (ST-Tensor) completion model. The Sensor-Independent LAI/FPAR CDR covers the period from 2000 to 2022 year, with spatial resolutions of 500m/5km/0.05 degrees for global vegetation area and temporal resolutions of 8 days or half a month.
 
+Reference: Sensor-independent LAI/FPAR CDR: reconstructing a global sensor-independent climate data record of MODIS and VIIRS LAI/FPAR from 2000 to 2022, 16(1), 15-34, ISSN: 1866-3516, 2023.
+
 The data descroption, file naming convention, data availablity, and example code are detailed in Readme_for_Sensor-Independent LAIFPAR CDR.docx.
 
 Data Citation:
